@@ -17,7 +17,7 @@ rich==13.5.0
 click==8.1.7 
 
 # Requests and handling APIs
-requests==2.31.0
+requests==2.32.2
 httpx==0.24.1
 
 # Retries and resilience
